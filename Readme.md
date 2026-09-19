@@ -2,6 +2,10 @@
 
 Agile Learn is a next-generation personalized education platform that leverages Generative AI to create adaptive, highly interactive learning pathways. By combining Agile methodologies (like Sprints and Kanban) with RPG-style gamification and voice-assisted tutoring, the platform dynamically adjusts to the user's knowledge level, learning speed, and preferred difficulty.
 
+Deployment Link:
+
+https://share.gemini.google/M9HqyGNqrhPU
+
 ✨ Advanced Features
 
 🧠 Adaptive Curriculum Kanban: Enter a goal, and the AI generates a customized, multi-sprint learning path formatted as a Kanban board (To Do, In Progress, Done). Tasks are saved in real-time.
